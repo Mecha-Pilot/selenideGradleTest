@@ -23,5 +23,5 @@ This project contains UI-automated tests written using Selenide and TestNG.
 # Running tests from command
 
 1. Navigate to the project directory in your terminal.
-2. Run the following command to execute all tests:
-"gradlew test"
+2. Run one of the following commands to execute all tests:
+"gradlew test" or "gradlew clean test"
