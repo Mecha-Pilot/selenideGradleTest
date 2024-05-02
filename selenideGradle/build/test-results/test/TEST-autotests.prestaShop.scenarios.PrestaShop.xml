@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="autotests.prestaShop.scenarios.PrestaShop" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-02T15:34:54" hostname="JURIJ-W10" time="65.999">
+  <properties/>
+  <testcase name="mainScenario" classname="autotests.prestaShop.scenarios.PrestaShop" time="65.999"/>
+  <system-out><![CDATA[test "mainScenario" started
+href = https://faded-zephyr.demo.prestashop.com/en/home-accessories/11-26-hummingbird-cushion.html#/8-color-white
+variable: window.open("https://faded-zephyr.demo.prestashop.com/en/home-accessories/11-26-hummingbird-cushion.html#/8-color-white")
+href = https://faded-zephyr.demo.prestashop.com/en/home-accessories/10-24-brown-bear-cushion.html#/8-color-white
+variable: window.open("https://faded-zephyr.demo.prestashop.com/en/home-accessories/10-24-brown-bear-cushion.html#/8-color-white")
+Order Details: 
+ Order reference: QWQUJALXZ
+ Payment method: Payments by check
+ Shipping method: My carrier
+Delivery next day!
+test "mainScenario" ended
+]]></system-out>
+  <system-err><![CDATA[May 02, 2024 6:34:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 123; Please update to a Selenium version that supports CDP version 124
+]]></system-err>
+</testsuite>
